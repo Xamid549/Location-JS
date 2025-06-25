@@ -1,0 +1,56 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1220px;
+    margin: 0 auto;
+}
+
+body {
+  background-color: rgb(155, 184, 185);
+}
+
+.box {
+  width: 650px;
+  padding: 20px;
+  margin: 50px auto;
+  background-color: white;
+  border-radius: 20px;
+
+}
+
+#karobka {
+  padding-left: 20px;
+  margin-left: -15px;
+}
+
+#map {
+  width: 600px;
+  height: 300px;
+  border: 1px solid black;
+  border-radius: 20px;
+}
+
+p {
+  margin: 10px 0;
+  font-size: 18px;
+}
+
+h1 {
+  text-align: center;
+}
+
+button {
+  display: block;
+  margin: 10px auto;
+  padding: 12px 30px;
+  font-size: 18px;
+  border-radius: 15px;
+  background-color: blue;
+  color: white;
+  border: none;
+}
